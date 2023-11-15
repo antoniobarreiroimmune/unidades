@@ -1,0 +1,12 @@
+#contenedor1{width: 500px;height: 300px;}
+img{width: 30vw;}
+header{height: 80px;}
+#contenedor2{width: 200px;
+height: 200px;}
+#cuadrado{width: 50%
+    ;height: 50%;
+background-color: aqua;}
+
+*{border: 1px solid black}
+#contenedor3{display: flex;justify-content:space-between;}
+#p1{width: 200px;}
