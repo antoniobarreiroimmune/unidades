@@ -8,5 +8,5 @@ height: 200px;}
 background-color: aqua;}
 
 *{border: 1px solid black}
-#contenedor3{display: flex;justify-content:space-between;}
+#contenedor3{display: flex;}
 #p1{width: 200px;}
